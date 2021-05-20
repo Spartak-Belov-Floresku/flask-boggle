@@ -8,3 +8,7 @@ There is functionality to determine if a word can be constructed from a boggle b
 
 To run this game you have to deploy app on the server
 
+<img src="https://raw.githubusercontent.com/Spartak-Belov-Floresku/img-jg/main/boggle_1.png">
+
+
+<im src="https://raw.githubusercontent.com/Spartak-Belov-Floresku/img-jg/main/boggle_2.png">
