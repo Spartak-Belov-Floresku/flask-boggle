@@ -6,7 +6,6 @@ import simplejson as json
 
 class FlaskTests(TestCase):
 
-    # TODO -- write tests for every view function / feature!
 
     '''Testing to load home page with game board'''
     def test_home_page(self):
