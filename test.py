@@ -60,4 +60,4 @@ class FlaskTests(TestCase):
 
             
             self.assertEqual(resp.status_code, 200)
-            self.assertIn('hint_word"', html)
+            self.assertIn('hint_word', html)
