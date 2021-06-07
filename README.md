@@ -12,3 +12,11 @@ To run this game you have to deploy app on the server
 
 
 <img src="https://raw.githubusercontent.com/Spartak-Belov-Floresku/img-jg/main/boggle_2.png">
+
+
+### Technology Used:
+
+- Flask
+- JavaScript
+- jQuery
+- Bootstrap
