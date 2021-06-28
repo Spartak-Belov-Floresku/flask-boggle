@@ -17,6 +17,7 @@ To run this game you have to deploy app on the server
 ### Technology Used:
 
 - Flask
+- Ajax
 - JavaScript
 - jQuery
 - Bootstrap
